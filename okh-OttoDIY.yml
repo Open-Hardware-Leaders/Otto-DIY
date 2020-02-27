@@ -66,7 +66,8 @@ contributors:                              # recommended
   - affiliation: Otto DIY Workshop s.r.o., Nové sady 988/2, Staré Brno, Czech Republic                  # text
 #    email: [value]                         # email address
 
-image: https://camo.githubusercontent.com/4511bf08fb11d73d20be333a788be898c52b0e8b/68747470733a2f2f77696b69666163746f72792e636f6d2f66696c65732f526d6c735a546f794e4445324e7a4d2533                            # recommended | absolute or relative path
+image: https://raw.githubusercontent.com/jbon/OttoDIY/patch-1/_img/portraitOfOtto.jpg                     # recommended | absolute or relative path
+
 #version: [value]                           # text
 
 #development-stage: [value]                 # text
