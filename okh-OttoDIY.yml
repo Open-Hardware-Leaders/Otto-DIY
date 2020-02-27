@@ -36,7 +36,7 @@ manifest-language: EN-UK
 
 # Properties
 
-title: OttpDIY                             # required | text | A title to identify the thing
+title: OttoDIY                             # required | text | A title to identify the thing
 
 description: |                             # required | paragraph
   Otto is truly Opensource robot for education; it means the hardware is easily discerned so that others can make it, is also Arduino compatible, 3D printable and customizable, the perfect opportunity to build and have your very first robot, learn robotics and have fun, you will learn the logical connection between code and action, and by assembling it, you will understand how its components and electronics work. Visit our website www.ottodiy.com for more detailed info. This Repository have all source including 3d design, 3d print files, libraries, Arduino code, how to guides, instruction manuals and even some papercrafts to personalize your own robot .
