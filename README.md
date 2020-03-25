@@ -4,7 +4,7 @@ Otto is truly Opensource robot for education; it means the hardware is easily di
 
 Visit our website www.ottodiy.com for more detailed info.
 
-This Repository have all source including 3d design, 3d print files, libraries, Arduino code, how to guides, instruction manuals and even some papercrafts to personalize your own robot .
+This Repository have all source including 3D design, 3D print files, libraries, Arduino code, how to guides, instruction manuals and even some papercrafts to personalize your own robot .
 
 ## How it Works
 
@@ -21,7 +21,7 @@ In the basic form Otto walks, dances, makes sounds, easy to program with blockly
 ## Part List
 
 Here there is a list of the materials you will need to build the BASIC Otto.
-![image](https://wikifactory.com/files/RmlsZToyMDY4NDY%3D)
+![image](https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/838564/OttoDIY_officialtobotbuilderkit_lzdp7r.jpg)
 
 * 1 x Nano ATmega328
 * 1 x Nano I/O shield
@@ -33,16 +33,17 @@ Here there is a list of the materials you will need to build the BASIC Otto.
 * 1 x AAbattery holder
 * 4 x AA Batteries Alkaline \(must be new or have 1.5V each\)
 * 1 x Micro Switch Self lock On/Off 8x8mm
-* [**3D printed head](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/3Dprint/OttoDIY%2B_head_V9.stl)
-* [**3D printed body](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/3Dprint/OttoDIY%2B_body_V9.stl)
-* [**3D printed leg x2](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/3Dprint/OttoDIY%2B_Leg_V9.stl)
-* [**3D printed foot x2](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/3Dprint/OttoDIY%2B_foot_V9.stl)
+* [3D printed head](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/3Dprint/OttoDIY%2B_head_V9.stl)
+* [3D printed body](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/3Dprint/OttoDIY%2B_body_V9.stl)
+* [3D printed leg x2](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/3Dprint/OttoDIY%2B_Leg_V9.stl)
+* [3D printed foot x2](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/3Dprint/OttoDIY%2B_foot_V9.stl)
 
 **Tools:**
 
 * Small Phillips screwdriver.
 * Computer.
 * Scissors or pliers.
+* 3D Printer
 
 ## 3D Printing
 
@@ -62,7 +63,7 @@ As with any fabrication technology you might adjust to desire quality and speed 
 ### For **beginners** it is recommended to start coding by using our new Blockly a simple visual programming software:
 
 Otto Blockly is completely autonomous \(no need for Arduino IDE, or libraries setup and no Internet access is required\).
-![image](https://wikifactory.com/files/RmlsZToyODQ0MjU=)
+![image](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.ottodiy.com%2Fblog%2Fottodiykit&psig=AOvVaw0qNNFY2UVLLNSvmjJBLcAD&ust=1585233443461000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDt0_bstegCFQAAAAAdAAAAABAF)
 
 1. [Download from our website here](https://www.ottodiy.com/#blockly)
 2. Unzip and install OttoBlockly.
@@ -79,6 +80,8 @@ Otto Blockly is completely autonomous \(no need for Arduino IDE, or libraries se
 **If your computer did not recognize the USB device you should [install the driver CH340 for your Operative System find it here:**](https://sparks.gogo.co.nz/ch340.html)
 
 Play with the examples and start mixing blocks in multiple ways to decide the behaviour of your robot and generate your own codes.
+[We also have our educational content open for FREE, learn about robotics and help us creating more lessons here.]
+(https://wikifactory.com/+OttoDIY/open-edu)
 
 ---
 
@@ -143,11 +146,13 @@ Follow us, subscribe, give us a like and share your creativity.Be a part of this
 A redesign, modified code or inspired by Otto; is technically a remix, so please upload into our [Wikifactory Social & Design Platform](https://wikifactory.com/+OttoDIY/projects)
 
  ## How to Contribute?
- Contributing to this software is warmly welcomed. There are many ways you can contribute to this project:
+ Contributing to this project is warmly welcomed. either software or hardware. There are many ways you can contribute to this project:
 1. Test and if find a problem then post an issue.
-2. Helps us solve the issues or other bugs by commenting
-3. Bring missing libraries, create other Otto remixes.
-You can do this by creating a new project in wikifactory in the Otto DIY organization.
+2. Helps us solve the issues or other bugs.
+3. Bring missing libraries or other Otto robot remixes.
+You can do this by [creating a new project in wikifactory](https://wikifactory.com/new-project) in the Otto DIY organization or making pull requests in our github.
+
+[For more details check ourcontribution guidelines here](https://github.com/Open-Hardware-Leaders/OttoDIY/blob/master/CONTRIBUTING.md)
 
 Thanks for your contribution.
 Just make sure to keep consistency in the naming and make a record of the change or improvement made.
