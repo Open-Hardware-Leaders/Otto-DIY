@@ -160,7 +160,13 @@ Welcome to the Otto DIY code development team!
 
 Welcome to our Otto Builder community!
 
-## License CC-BY-SA
+## Licenses
+
+Our software and code are licensed with GNU General Public License v3.0
+Our hardware and 3D prints are licensed with CERN OHL V2.0
+Our documenation including media is licensed with CC-BY-SA 4.0
+
+To make it simple ALWAYS mention ottodiy.com in any redistribution and let us know in advance your plans, we will help you. If you receive something for free give it for free too, so you should publish your changes or imporvements as open source as well.
 
 Otto DIY by www.ottodiy.com is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
