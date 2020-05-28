@@ -1,3 +1,14 @@
+## 1. No Promotions or SPAM
+Give more than you take to this group. Self-promotion, spam and irrelevant links aren't allowed. Only post robotics / education / 3D printing / design / technology related content (doesn't need to be directly about Otto even).
+## 2. Be Kind and Courteous
+We're all in this together to create a welcoming environment. Let's treat everyone with respect. Healthy debates are natural, but kindness is required. Feedback is important to us but do it in a nice constructive way.
+## 3. No Hate Speech or Bullying
+Make sure everyone feels safe. Bullying of any kind isn't allowed, and degrading comments about things like race, religion, culture, sexual orientation, gender or identity will not be tolerated.
+## 4. Respect Everyone's Privacy
+Being part of this group requires mutual trust. Authentic, expressive discussions make groups great, but may also be sensitive and private. You can share what is in this group but make sure to ask the author of the post before sharing somewhere else.
+## 5. Search before Asking in the Community
+Search (in this group or our FAQ or forum), before posting a redundant question, describe in detail your project and your goal. A picture/screenshot of your problem or your code, so we can help check if there is a bug.
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
