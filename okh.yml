@@ -63,10 +63,10 @@ project-link: https://www.ottodiy.com/                      # At least project-l
 
 contributors:                              # recommended
   - name: Otto DIY Workshop                  # text
-  - affiliation: Otto DIY Workshop s.r.o., Nové sady 988/2, Staré Brno, Czech Republic                  # text
+    affiliation: Otto DIY Workshop s.r.o., Nové sady 988/2, Staré Brno, Czech Republic                  # text
 #    email: [value]                         # email address
 
-image: https://raw.githubusercontent.com/jbon/OttoDIY/patch-1/_img/portraitOfOtto.jpg                     # recommended | absolute or relative path
+image: https://raw.githubusercontent.com/Open-Hardware-Leaders/OttoDIY/master/_img/portraitOfOtto.jpg                     # recommended | absolute or relative path
 
 #version: [value]                           # text
 
